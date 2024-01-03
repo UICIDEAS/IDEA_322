@@ -45,7 +45,7 @@ This first week you should review the [course syllabus](SYLLABUS.md) and access 
 DUE **Wednesday, January 10**:
 * Review [course syllabus](SYLLABUS.md)
 * DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1WmKqB9vsJnuo5nms8rZnF6EG2k-Uh8DTEYjSkAjCn6Y/edit?usp=sharing)
-* Read [Rachel Green, Web Work - A History of Net Art](week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
+* Read [Allan de Souza, "How Can Art Be Thought?"](week_01/desouza_hcabt1.pdf)
 * Explore [Gallery 400's upcoming exhibition Contemporary Ex-Votos: Devotion Beyond Medium](https://gallery400.uic.edu/exhibition/contemporaryexvotos/) and [Guadalupe Maravillla's Ex-Voto artworks on his website](https://www.guadalupemaravilla.com/).
 
 ***
