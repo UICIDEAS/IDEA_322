@@ -29,27 +29,29 @@
 
 This document is the current course schedule broken down by week.
 
-In this document, under each week there are a list of assigned videos, texts, and exercises to complete for that Thursday (by midnight), along with how and where to submit assignments. The contents of this document will be updated throughout the semester.
+With the exception of Week 1 (when we will meet on January 8th), IDEA 322 will meet in-person once per week on Wednesdays. Assignments and readings should be completed on Monday.
+
+In this document, under each week, there is a list of assigned videos, texts, and exercises to complete for the following Monday (by midnight), along with how and where to submit assignments. The contents of this document will be updated throughout the semester.
 
 ***
 
-## Unit 1: A Brief History of Digital Computing and the Arts
+## Unit 1: Introduction to Arts-Based Research
 
 ### Week 1
-#### January 9, 2024: Course Introduction
+#### January 8, 2024: Introduction to Arts-Based Research
 
-This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture guide, reading, and assignments. I (Tiffany) will hold open office hours on Thursday, January 11, via Zoom. Zoom invite details will be on Blackboard.
+This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture guide, reading, and assignments.
 
-DUE **Thursday, January 14**:
+DUE **Wednesday, January 10**:
 * Review [course syllabus](SYLLABUS.md)
-* DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1CWfBMEoSHCvFx0WdQB7-BuJkrtODb3ga_s1rdj0_5q4/edit?usp=sharing)
+* DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1WmKqB9vsJnuo5nms8rZnF6EG2k-Uh8DTEYjSkAjCn6Y/edit?usp=sharing)
 * Read [Rachel Green, Web Work - A History of Net Art](week_01/Rachel-Green-Web-Work-A-History-of-Net-Art-WEEK-01.pdf)
-* Explore [Chapter 1: 1984-1998 of the Rhizome Anthology of Net Art](https://anthology.rhizome.org/) and read and look at the examples of early art on the world wide web.
+* Explore [Gallery 400's upcoming exhibition Contemporary Ex-Votos: Devotion Beyond Medium](https://gallery400.uic.edu/exhibition/contemporaryexvotos/) and [Guadalupe Maravillla's Ex-Voto artworks on his website](https://www.guadalupemaravilla.com/).
 
 ***
 
 ### Week 2
-#### Week of January 16, 2024: Computing in Design and Arts Practices
+#### Week of January 15, 2024: Computing in Design and Arts Practices
 
 DUE **Thursday, January 19**:
 * DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1eJpnWnj7eaZ4ezTom1rtXaewIAAxGGN9wRQdRqQTwRE/edit?usp=sharing)
