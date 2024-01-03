@@ -1,7 +1,7 @@
 # IDEA 322: Introduction to Arts-Based Research Methods
 ### Syllabus for Spring 2024
 
-![Bharti Kher, A Wonderful Anarchy](bharti_kher.png)
+![Bharti Kher, A Wonderful Anarchy](Bharti-Kher.jpg)
 <sup>*Bharti Kher, A Wonderful Anarchy (2018)*</sup>
 
 Course description:
