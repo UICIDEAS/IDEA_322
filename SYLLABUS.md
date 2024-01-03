@@ -1,3 +1,9 @@
+# IDEA 322: Introduction to Arts-Based Research Methods
+### Syllabus for Spring 2024
+
+![Bharti Kher, A Wonderful Anarchy](bharti_kher.png)
+<sup>*Bharti Kher, A Wonderful Anarchy (2018)*</sup>
+
 Course description:
 
 Art is seen as the ability to change the world, not by money or force, but by orientation, by radically transforming the “sensible,” or sensory, reality of the eye, ear, taste, touch and smell, which unavoidably results in a change in ideas, understanding and insight. It may be about distancing, it may be about getting closer; sometimes it is irony or camp, sometimes it is a serious attempt to find illuminating concepts and their verbalisations and sometimes it is the need to create new myths or just tell stories. (Juha Varto, Artistic Research Methodology, x)
