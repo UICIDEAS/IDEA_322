@@ -49,7 +49,7 @@ DUE **Wednesday, January 10**:
 * Explore [Gallery 400's upcoming exhibition Contemporary Ex-Votos: Devotion Beyond Medium](https://gallery400.uic.edu/exhibition/contemporaryexvotos/) and [Guadalupe Maravillla's Ex-Voto artworks on his website](https://www.guadalupemaravilla.com/).
 
 ***
-
+<!---
 ### Week 2
 #### Week of January 15, 2024: Computing in Design and Arts Practices
 
@@ -278,4 +278,4 @@ DUE **Thursday, April 27**:
 
 ![Dancing Baby](dancing_baby.gif)
 
-<sup>*The classic [Dancing Baby](https://knowyourmeme.com/memes/dancing-baby)*</sup>
+<sup>*The classic [Dancing Baby](https://knowyourmeme.com/memes/dancing-baby)*</sup> -->
