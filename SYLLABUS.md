@@ -43,7 +43,7 @@ Tiffany Funk / (New) Media Artist && Art Historian, Visiting Assistant Professor
 
 ***
 
-### Office Hours, One on One Meetings
+### Office Hours, One-on-One Meetings
 
 Schedule a time to meet via Zoom during office hours (Thursdays, 12p-2:30p): https://calendar.app.google/yxUCCvrL9oXnqVdr6
 
@@ -57,7 +57,7 @@ If the above times do not work for you, email me so we can find a time that work
 
 All artists use some form of research to create artwork, whether their process is intuitive or empirical. How might you introduce different methods of research into your own practice? How might you make use of available archives, design surveys, or develop with people from different disciplinary backgrounds? What are the advantages of group projects, and what are those of individual arts-based research?
 
-This course is an overview of arts-based research as an interdisciplinary, humanistic, and qualitative research methodology. Emphasis will be placed on applied, practice-led research in realization and refinement of interdisciplinary art projects.
+This course is an overview of arts-based research as an interdisciplinary, humanistic, and qualitative research methodology. Emphasis will be placed on applied, practice-led research in the realization and refinement of interdisciplinary art projects.
 
 ***
 
@@ -135,12 +135,12 @@ This is a four hour course. You should expect to read, watch, or listen to aroun
 
 Attendance is required. Students are expected to attend all classes and be present for the full duration of each class. In class time is for instruction. When possible, instructors will make time for students to work independently on projects. Unless special permission is granted by the instructor, students are required to remain in class during this independent work time. Announcements and directions will be given at the beginning of class so it is important that you arrive on time.  Absences, late arrivals, and leaving class early will reflect negatively on your grade. Communicate with your instructors if there are serious or extenuating circumstances that prevent you from arriving on time or from participating fully. Be prepared to present a doctor’s note if an absence is due to illness. 
 
-•	Maximum: two unexcused absences for the semester.  
-•	Three unexcused absences = your grade will drop by one letter grade.  
-•	One letter grade will be dropped for each additional unexcused absence.  
-•	Five or more unexcused absences = automatic failure of the course.  
-•	Missing class on a scheduled presentation or critique day is equivalent to not having your work ready. It will result in a failing grade for that assignment. 
-•	Three late arrivals or early departures will count as one absence.  
+* Maximum: two unexcused absences for the semester.  
+* Three unexcused absences = your grade will drop by one letter grade.  
+* One letter grade will be dropped for each additional unexcused absence.  
+* Five or more unexcused absences = automatic failure of the course.  
+* Missing class on a scheduled presentation or critique day is equivalent to not having your work ready. It will result in a failing grade for that assignment. 
+* Three late arrivals or early departures will count as one absence.  
 
 ***
 
