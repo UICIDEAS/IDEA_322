@@ -45,7 +45,9 @@ Tiffany Funk / (New) Media Artist && Art Historian, Visiting Assistant Professor
 
 ### Office Hours, One on One Meetings
 
-[Schedule a one on one appointment with me using Calendly]
+Schedule a time to meet via Zoom during office hours (Thursdays, 12p-2:30p): https://calendar.app.google/yxUCCvrL9oXnqVdr6
+
+If the above times do not work for you, email me so we can find a time that works for you: [tfunk4@uic.edu](mailto:tfunk4@uic.edu). 
 
 ***
 
