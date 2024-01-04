@@ -111,8 +111,6 @@ Coursework: (100 points total)
 Participation:			10 pts
 Attendance: 			10 pts
 
-Grading Key:
-
 | Grading Key      |  |
 | ----------- | ----------- |
 | A      | outstanding accomplishment in all assignments (technically and conceptually), excellent engagement with ideas and materials, excellent participation in classroom community (vocal, inquisitive, and ALWAYS thoughtful), full attendance, exceptional progress in artistic process       |
