@@ -29,7 +29,7 @@
 
 This document is the current course schedule broken down by week.
 
-With the exception of Week 1 (when we will meet on January 8th), IDEA 322 will meet in-person once per week on Wednesdays. Assignments and readings should be completed on Monday.
+With the exception of Week 1 (when we will meet on January 8th), IDEA 322 will meet in person once per week on Wednesdays. Assignments and readings should be completed on Monday.
 
 In this document, under each week, there is a list of assigned videos, texts, and exercises to complete for the following Monday (by midnight), along with how and where to submit assignments. The contents of this document will be updated throughout the semester.
 
@@ -40,7 +40,7 @@ In this document, under each week, there is a list of assigned videos, texts, an
 ### Week 1
 #### January 8, 2024: Introduction to Arts-Based Research
 
-This first week you should review the [course syllabus](SYLLABUS.md) and access your first lecture guide, reading, and assignments.
+This first week, you should review the [course syllabus](SYLLABUS.md) and access your first lecture guide, reading, and assignments.
 
 DUE **Wednesday, January 10**:
 * Review [course syllabus](SYLLABUS.md)
@@ -55,7 +55,7 @@ DUE **Wednesday, January 10**:
 
 DUE **Monday, January 22**:
 * DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1KkTglGyG00acVpSkEfouawSVHScyagVNnuhytxwspUg/edit#slide=id.p)
-* Read [Susan Sontag, "Notes on Camp" (1964)](week_02/Sontag_Susan_1964_Notes_on_Camp.pdf) and [Victoria Scotti and Gioia Chilton, "Collage as Arts-Based Research," in Handbook of Arts-Based Research, ed. Patricia Leavy, 2018 (week_02/leavy_collage.pdf).
+* Read [Susan Sontag, "Notes on Camp" (1964)](week_02/Sontag_Susan_1964_Notes_on_Camp.pdf) and [Victoria Scotti and Gioia Chilton, "Collage as Arts-Based Research," in Handbook of Arts-Based Research, ed. Patricia Leavy, 2018](week_02/leavy_collage.pdf).
   - You may want to consult "The Chicago School of Media Theory" entry on "kitsch": https://lucian.uchicago.edu/blogs/mediatheory/keywords/kitsch/.
   - Regarding "Notes on Camp" by Susan Sontag, make sure to look up images of what Sontag refers to — for example, Aubrey Beardsley drawings, Tiffany lamps, the Brown Derby restaurant on Sunset Boulevard in LA, etc. Consider how opinions about these examples have changed, or stayed the same, since 1964.
 * Create [a new GitHub Account](https://github.com/join)
