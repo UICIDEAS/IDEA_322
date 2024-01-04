@@ -113,11 +113,13 @@ Attendance: 			10 pts
 
 Grading Key:
 
-A = outstanding accomplishment in all assignments (technically and conceptually), excellent engagement with ideas and materials, excellent participation in classroom community (vocal, inquisitive, and ALWAYS thoughtful), full attendance, exceptional progress in artistic process  
-B = above average accomplishment in all assignments, strong engagement with ideas and materials, work falls short of fully embodying the initial conceptual or formal impetus. during class, you are invested when you choose, but lack the rigor to ALWAYS be present in class. full attendance and above average progress  
-C = average accomplishment of all assignments, work submitted on time, some engagement with ideas and materials, some participation in classroom community, full attendance, average progress, Student shows lack of motivation and interest in thoroughly developing their skills as an artist, student, and citizen. 
-D = the work does not meet the assignments criteria, some assignments not completed or completed in a perfunctory manner, little engagement with ideas and materials, irregular or damaging participation in classroom community, irregular attendance, minimal progress  
-F = a number of assignments not completed or completed in a perfunctory manner, little or no evidence of engagement with ideas and materials, lack of participation in classroom community, failure to arrive prepared for class routinely, irregular attendance, little or no evidence of progress  
+| Grading Key      |  |
+| ----------- | ----------- |
+| A      | outstanding accomplishment in all assignments (technically and conceptually), excellent engagement with ideas and materials, excellent participation in classroom community (vocal, inquisitive, and ALWAYS thoughtful), full attendance, exceptional progress in artistic process       |
+| B   | above average accomplishment in all assignments, strong engagement with ideas and materials, work falls short of fully embodying the initial conceptual or formal impetus. during class, you are invested when you choose, but lack the rigor to ALWAYS be present in class. full attendance and above average progress          |
+| C      | average accomplishment of all assignments, work submitted on time, some engagement with ideas and materials, some participation in classroom community, full attendance, average progress, Student shows lack of motivation and interest in thoroughly developing their skills as an artist, student, and citizen. |
+| D   | the work does not meet the assignments criteria, some assignments not completed or completed in a perfunctory manner, little engagement with ideas and materials, irregular or damaging participation in classroom community, irregular attendance, minimal progress |
+| F      | a number of assignments not completed or completed in a perfunctory manner, little or no evidence of engagement with ideas and materials, lack of participation in classroom community, failure to arrive prepared for class routinely, irregular attendance, little or no evidence of progress |
 
 *NOTE - Merely turning in all assignments is not a guarantee of a C or above.  
 
