@@ -45,26 +45,26 @@ This first week you should review the [course syllabus](SYLLABUS.md) and access 
 DUE **Wednesday, January 10**:
 * Review [course syllabus](SYLLABUS.md)
 * DOWNLOAD and review [Week 1 guide](https://docs.google.com/presentation/d/1WmKqB9vsJnuo5nms8rZnF6EG2k-Uh8DTEYjSkAjCn6Y/edit?usp=sharing)
-* Read [Allan de Souza, "How Can Art Be Thought?"](week_01/desouza_hcabt1.pdf)
+* Read [Allan de Souza, "How Art Can Be Thought," (2018)](week_01/desouza_hcabt1.pdf)
 * Explore [Gallery 400's upcoming exhibition Contemporary Ex-Votos: Devotion Beyond Medium](https://gallery400.uic.edu/exhibition/contemporaryexvotos/) and [Guadalupe Maravillla's Ex-Voto artworks on his website](https://www.guadalupemaravilla.com/).
 
 ***
-<!---
-### Week 2
-#### Week of January 15, 2024: Computing in Design and Arts Practices
 
-DUE **Thursday, January 19**:
-* DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1eJpnWnj7eaZ4ezTom1rtXaewIAAxGGN9wRQdRqQTwRE/edit?usp=sharing)
-* Read [Janet Murray, Hamlet on the Holodeck: Chapter 3](week_02/Janet-Murray-Hamlet-on-the-Holodeck-Chapter-3-WEEK-02.pdf)
-* Watch [Daniel Shiffman, Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
+### Week 2
+#### Week of January 15, 2024: Arts-Based Research in Practice
+
+DUE **Monday, January 22**:
+* DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1KkTglGyG00acVpSkEfouawSVHScyagVNnuhytxwspUg/edit#slide=id.p)
+* Read [Susan Sontag, "Notes on Camp" (1964)](week_02/Sontag_Susan_1964_Notes_on_Camp.pdf) and [Clement Greenberg, "Avant-Garde and Kitsch"](week_02/Greenberg-Clement-Avant-Garde-and-Kitsch.pdf)
 * Create [a new GitHub Account](https://github.com/join)
 * Email your GitHub username to: [tfunk4@uic.edu](mailto:tfunk4@uic.edu)
-* Create [a new public repository (Step 1 only)](https://guides.github.com/activities/hello-world/#repository) and name it 'idea-120-responses-YOUR_GITHUB_USERNAME'
-* Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-02-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem and include at least 2 images. 
-* 'Commit' the new file to your repository with a description. We'll discuss your results in discussion on Tuesday, January 23rd.
+* Create [a new public repository (Step 1 only)](https://guides.github.com/activities/hello-world/#repository) and name it 'idea-322-responses-YOUR_GITHUB_USERNAME'
+* Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-02-camp.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files). Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any image, YouTube video, or social media post that relates to "camp" as it is described in the articles. Give the media relevant captions. 
+* 'Commit' the new file to your repository with a description. We'll discuss your repositories in discussion on Wednesday, January 24th.
+
 
 ***
-
+<!---
 ### Week 3
 #### Week of January 23, 2024: A Brief History of (Digital, and other) Media in Art
 
