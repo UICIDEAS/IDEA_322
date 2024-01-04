@@ -72,7 +72,7 @@ DUE **Monday, January 22**:
 
 DUE **Monday, January 29**:
 * DOWNLOAD and review [Week 3 guide](https://docs.google.com/presentation/d/13h_qL-7HnRsnWaST9hcrUAyVZ0QryGTHk4iv9lc3P14/edit?usp=sharing)
-* Read [Susan E. Thomas, "Value and Validity of Art Zines as an Art Form," Art Documentation: Journal of the Art Libraries Society of North America, Fall 2009](week_03/thomas.pdf)and [Shannon Michael Cane, "Xerox, Paper, Scissors," Aperture, Spring 2015](week_03/cane.pdf).
+* Read [Susan E. Thomas, "Value and Validity of Art Zines as an Art Form," Art Documentation: Journal of the Art Libraries Society of North America, Fall 2009](week_03/thomas.pdf) and [Shannon Michael Cane, "Xerox, Paper, Scissors," Aperture, Spring 2015](week_03/cane.pdf).
 
 ***
 <!---
