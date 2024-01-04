@@ -51,11 +51,11 @@ DUE **Wednesday, January 10**:
 ***
 
 ### Week 2
-#### Week of January 15, 2024: Arts-Based Research in Practice
+#### January 15, 2024: Arts-Based Research in Practice
 
 DUE **Monday, January 22**:
 * DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1KkTglGyG00acVpSkEfouawSVHScyagVNnuhytxwspUg/edit#slide=id.p)
-* Read [Susan Sontag, "Notes on Camp" (1964)](week_02/Sontag_Susan_1964_Notes_on_Camp.pdf) and [Clement Greenberg, "Avant-Garde and Kitsch"](week_02/Greenberg-Clement-Avant-Garde-and-Kitsch.pdf)
+* Read [Susan Sontag, "Notes on Camp" (1964)](week_02/Sontag_Susan_1964_Notes_on_Camp.pdf) and [Victoria Scotti and Gioia Chilton, "Collage as Arts-Based Research," in Handbook of Arts-Based Research, ed. Patricia Leavy, 2018 (week_02/leavy_collage.pdf).
   - You may want to consult "The Chicago School of Media Theory" entry on "kitsch": https://lucian.uchicago.edu/blogs/mediatheory/keywords/kitsch/.
   - Regarding "Notes on Camp" by Susan Sontag, make sure to look up images of what Sontag refers to — for example, Aubrey Beardsley drawings, Tiffany lamps, the Brown Derby restaurant on Sunset Boulevard in LA, etc. Consider how opinions about these examples have changed, or stayed the same, since 1964.
 * Create [a new GitHub Account](https://github.com/join)
@@ -66,20 +66,16 @@ DUE **Monday, January 22**:
 
 
 ***
-<!---
-### Week 3
-#### Week of January 23, 2024: A Brief History of (Digital, and other) Media in Art
 
-DUE **Thursday, January 26**:
+### Week 3
+#### January 24, 2024: Camp, Kitsch, and Collage as Research
+
+DUE **Monday, January 29**:
 * DOWNLOAD and review [Week 3 guide](https://docs.google.com/presentation/d/1l9JQIzBcL0MjvTACfpybLckH2I715cSbrfZn5sE8Ps8/edit?usp=sharing)
-* [Watch Documentary: Lo and Behold, Werner Herzog (2016)](https://www.dailymotion.com/video/x8njx91)
-* Read [Chris Salter, Entangled](/week_03_week_of_01-25-2021/readings/Chris-Salter-Entangled-WEEK-03.pdf)
-* Respond to the reading by creating a new markdown file named 'week-03-salter.md' in your 'idea-120-responses' repository and write 2-3 paragraphs that explore what contemporary tools (digital or physical) could be used to create art that could be considered a *Gesamtkunstwerk*. Is there an example in the Rhizome Anthology that could qualify?
- * Be sure to format your writing (including a header for your title) using [markdown syntax](https://guides.github.com/features/mastering-markdown/) and add a hidden message (or [ASCII-text-image](https://www.asciiart.eu/art-and-design/mona-lisa)) using [HTML comments](https://www.w3schools.com/html/html_comments.asp)
-* Read the description for [Project 1: GitHub Poetry (due week 5)](/week_03_week_of_01-25-2021/project-1-github-poetry.md) and follow the instructions there to create a GitHub pages site
+* Read [Susan E. Thomas, "Value and Validity of Art Zines as an Art Form," Art Documentation: Journal of the Art Libraries Society of North America, Fall 2009](week_03/thomas.pdf)and [Shannon Michael Cane, "Xerox, Paper, Scissors," Aperture, Spring 2015](week_03/cane.pdf).
 
 ***
-
+<!---
 ### Week 4
 #### Week of January 30, 2022: Media Theory, Part 1
 
