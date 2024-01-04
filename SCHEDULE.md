@@ -56,10 +56,12 @@ DUE **Wednesday, January 10**:
 DUE **Monday, January 22**:
 * DOWNLOAD and review [Week 2 guide](https://docs.google.com/presentation/d/1KkTglGyG00acVpSkEfouawSVHScyagVNnuhytxwspUg/edit#slide=id.p)
 * Read [Susan Sontag, "Notes on Camp" (1964)](week_02/Sontag_Susan_1964_Notes_on_Camp.pdf) and [Clement Greenberg, "Avant-Garde and Kitsch"](week_02/Greenberg-Clement-Avant-Garde-and-Kitsch.pdf)
+  - You may want to consult "The Chicago School of Media Theory" entry on "kitsch": https://lucian.uchicago.edu/blogs/mediatheory/keywords/kitsch/.
+  - Regarding "Notes on Camp" by Susan Sontag, make sure to look up images of what Sontag refers to — for example, Aubrey Beardsley drawings, Tiffany lamps, the Brown Derby restaurant on Sunset Boulevard in LA, etc. Consider how opinions about these examples have changed, or stayed the same, since 1964.
 * Create [a new GitHub Account](https://github.com/join)
 * Email your GitHub username to: [tfunk4@uic.edu](mailto:tfunk4@uic.edu)
 * Create [a new public repository (Step 1 only)](https://guides.github.com/activities/hello-world/#repository) and name it 'idea-322-responses-YOUR_GITHUB_USERNAME'
-* Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-02-camp.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files). Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any image, YouTube video, or social media post that relates to "camp" as it is described in the articles. Give the media relevant captions. 
+* Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-02-camp.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files). Sontag's essay is numbered. Choose three of these numbers and find an image that illustrates the topic of each. Change the file name to your own last name and the number you chose. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) upload these images, and give the media relevant captions. 
 * 'Commit' the new file to your repository with a description. We'll discuss your repositories in discussion on Wednesday, January 24th.
 
 
