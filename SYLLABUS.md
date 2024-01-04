@@ -53,7 +53,7 @@ If the above times do not work for you, email me so we can find a time that work
 
 ### Course Description
 
-Art is seen as the ability to change the world, not by money or force, but by orientation, by radically transforming the “sensible,” or sensory, reality of the eye, ear, taste, touch and smell, which unavoidably results in a change in ideas, understanding and insight. It may be about distancing, it may be about getting closer; sometimes it is irony or camp, sometimes it is a serious attempt to find illuminating concepts and their verbalisations and sometimes it is the need to create new myths or just tell stories. (Juha Varto, Artistic Research Methodology, x)
+> Art is seen as the ability to change the world, not by money or force, but by orientation, by radically transforming the “sensible,” or sensory, reality of the eye, ear, taste, touch and smell, which unavoidably results in a change in ideas, understanding and insight. It may be about distancing, it may be about getting closer; sometimes it is irony or camp, sometimes it is a serious attempt to find illuminating concepts and their verbalisations and sometimes it is the need to create new myths or just tell stories. (Juha Varto, Artistic Research Methodology, x)
 
 All artists use some form of research to create artwork, whether their process is intuitive or empirical. How might you introduce different methods of research into your own practice? How might you make use of available archives, design surveys, or develop with people from different disciplinary backgrounds? What are the advantages of group projects, and what are those of individual arts-based research?
 
