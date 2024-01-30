@@ -75,29 +75,20 @@ DUE **Monday, January 29**:
 * Read [Susan E. Thomas, "Value and Validity of Art Zines as an Art Form," Art Documentation: Journal of the Art Libraries Society of North America, Fall 2009](week_03/thomas.pdf) and [Shannon Michael Cane, "Xerox, Paper, Scissors," Aperture, Spring 2015](week_03/cane.pdf).
 
 ***
-<!---
+
 ### Week 4
-#### Week of January 30, 2022: Media Theory, Part 1
+#### January 31, 2024: Collage and Digital Research
 
-DUE **Thursday, February 2**:
-* DOWNLOAD and review [Week 4 guide](/week_04_week_of_02-01-2021/wk04_mediatheory1.pdf)
-* [Watch Lecture: Hot Media, Cool Semiotics, Part 1](https://vimeo.com/456042103/5ec7e1ceeb)
-* Read [Marshall McLuhan, Understanding Media: Media Hot and Cold](/week_04_week_of_02-01-2021/readings/Marshall-McLuhan-Understanding-Media-Media-Hot-and-Cold-WEEK-04.pdf)
-* Read [Roland Barthes, Image-Music-Text: 'The Rhetoric of the Image'](/week_04_week_of_02-01-2021/readings/Roland-Barthes-Image-Music-Text-The-Rhetoric-of-the-Image-WEEK-04.pdf)
-* Create a new markdown file named 'week-04-response.md' and save it in your 'idea-120-responses' repository
-* In this response provide an example of a kind of image that would be read differently if it were seen in another medium (for example, posts by Instagram 'influencers', food photography, or [click-bait news articles](https://en.wikipedia.org/wiki/Clickbait)). What are the 'three messages' (as laid out by Barthes) this kind of image contains?  
- * Save the file and ['stage all' changes in the Git tab](https://flight-manual.atom.io/using-atom/sections/github-package/#stage), add a 'Commit message', click 'Commit to master' and ['Push' the new document to your repository](https://flight-manual.atom.io/using-atom/sections/github-package/#publish-and-push)
- * Read W3C's [HTML Tutorial from 'HTML Introduction' to 'HTML Emojis'](https://www.w3schools.com/html/default.asp)
- * Read W3C's [CSS Tutorial from 'CSS Introduction' to 'CSS Position'](https://www.w3schools.com/css/default.asp)
+* DOWNLOAD and review [Week 4 guide](https://docs.google.com/presentation/d/1BFacKZT7UB0pZo7KcozItNlq5iGLlCkpATkHFaEAB-c/edit?usp=sharing)
+* Read: [A Student's Guide to Zines](week_04/student zine guide.pdf)
 
-Tuesday Recording:
-https://uic.zoom.us/rec/share/daY7zeS1m0X7CDQJKJEiHoeOVvHVgst7KQkW0ZShVdmMTYpRO89FiIGh5_5SWezq.ETX8NluCnV4atlSG
-
-Thursday Recording:
-https://uic.zoom.us/rec/share/-ggULwkG7R8QS_a0G77oI8KTACBM2BvG-NZO7CF5d4OF7MpVQpmVBONBahYTQdWZ.oBZ6430Cmktd1sSZ
+DUE Monday, February 5:
+* Look through the list of special collections/archives in UIC’s Daley Library (both material and digital): https://researchguides.uic.edu/subject/special-collections-archives
+* Come up with 3 proposals for a project that might be submitted either to our own Image of Research competition (https://grad.uic.edu/funding-awards/the-image-of-research/) AND/OR to Graphe, UIC’s English Department’s Journal of Writing and Art (https://engl.uic.edu/graphe/). These proposals should involve something found in the UIC Archives. Consider the different ways in which you might employ collage or zine-based elements.
+* Write one (short) paragraph for each, with a sketch. Upload these to the Google Drive Folder by 10am, Monday.
 
 ***
-
+<!---
 ### Week 5
 #### Week of February 6, 2022: Media Theory, Part 2
 
