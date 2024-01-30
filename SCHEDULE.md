@@ -76,11 +76,13 @@ DUE **Monday, January 29**:
 
 ***
 
+## Unit 2: Digital Research & Getting Started
+
 ### Week 4
 #### January 31, 2024: Collage and Digital Research
 
 * DOWNLOAD and review [Week 4 guide](https://docs.google.com/presentation/d/1BFacKZT7UB0pZo7KcozItNlq5iGLlCkpATkHFaEAB-c/edit?usp=sharing)
-* Read: [A Student's Guide to Zines](week_04/student zine guide.pdf)
+* Read: [A Student's Guide to Zines](week_04/student_zine_guide.pdf)
 
 DUE Monday, February 5:
 * Look through the list of special collections/archives in UIC’s Daley Library (both material and digital): https://researchguides.uic.edu/subject/special-collections-archives
