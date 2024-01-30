@@ -87,7 +87,7 @@ DUE **Monday, January 29**:
 DUE Monday, February 5:
 * Look through the list of special collections/archives in UIC’s Daley Library (both material and digital): https://researchguides.uic.edu/subject/special-collections-archives
 * Come up with 3 proposals for a project that might be submitted either to our own Image of Research competition (https://grad.uic.edu/funding-awards/the-image-of-research/) AND/OR to Graphe, UIC’s English Department’s Journal of Writing and Art (https://engl.uic.edu/graphe/). These proposals should involve something found in the UIC Archives. Consider the different ways in which you might employ collage or zine-based elements.
-* Write one (short) paragraph for each, with a sketch. Upload these to the Google Drive Folder by 10am, Monday.
+* Create a repository called "IDEA 322 Project 1." Create a markdown file in that repository called "project1_proposal.md." Write one (short) paragraph for each of your 3 proposals, with at least one sketch or image.
 
 ***
 <!---
