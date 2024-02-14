@@ -102,29 +102,23 @@ DUE Wednesday, February 14:
 - Make enough copies for your classmates!
 
 ***
-<!---
-## Unit 2: Digital Literacy and Online Content Creation
+## Unit 2: Collections and Curation
 
 ### Week 6
-#### Week of February 13, 2022: Digital Un-realities
+#### Week of February 14, 2024: Institutional Critique // Archives and Museums as Collage
 
 One-on-one meetings this week before midterm grades are submitted
 
-DUE **Thursday, February 16**:
-* DOWNLOAD and review [Week 6 guide](https://docs.google.com/presentation/d/1HCValVmwd-A-Os9qooaZWzw6UR-sHtBnj5UlPVY42z8/edit?usp=sharing)
-* Read [Janet Murray, Hamlet on the Holodeck: Chapter 9](/week_06_week_of_02-15-2021/readings/Janet-Murray-Hamlet-On-the-Holodeck-Chapter-9-WEEK-06.pdf)
-* Read W3C's [HTML Media Tutorial from 'HTML Media' to 'HTML YouTube', ](https://www.w3schools.com/html/default.asp)
-* Watch [Why 'The Mandalorian' Uses Virtual Sets Over Green Screen'](https://www.youtube.com/watch?v=Ufp8weYYDE8)
-* In Atom, create a new markdown file named 'week-06-murray.md' and save it in your 'idea-120-responses' repository project folder. In this file discuss if you believe Murray's predictions about internet television and inhabiting virtual environments were successful. How does Murray's prediction compare to the hyper-realistic virtual environments the actors of 'The Mandalorian' inhabit while acting? Name and discuss the different layers of 'reality' both the actors and the viewers experience in the production.
-* Push this file to your repository
+* DOWNLOAD and review [Week 6 guide](https://docs.google.com/presentation/d/1XouW7bvgChEIB61a3a6Po8bYb54e8tiyePz2U8NSJxw/edit?usp=sharing)
+* Read: [Fred Wilson and Howard Halle's Mining the Museum](week_06/wilson_miningthemuseum.pdf)
 
-Optional In-Class Lab **Tuesday, February 14, 9:30-10:45AM**
-* Accessing the virtual computer lab
-** [Instructions can be found on this PDF](week_06_week_of_02-15-2021/windows-virtual-desktop-access.pdf)
-* Recording will be posted afterward
+* Consider the “Museum of Broken Relationships,” and browse the collections on the Public Collectors website: http://www.publiccollectors.org/. What kinds of museums have you visited? What makes a location a museum, or an “attraction”? What is the difference between a curiosity, or a museum display? Find websites for these museums, and search out their mission statements (if they have one). Do you see any patterns? What do you already have that you could make into an archive, or museum? Would it be physical, virtual, or maybe something else? What purpose would this archive/museum serve, if you opened it to the public?
+* Invent such a museum. Give it a name, describe its contents, and what its “mission” would be. Provide sketches, if appropriate. 
+* Create a .md file in your responses repository for discussion by 10am, Wednesday (2/21).
+
 
 ***
-
+<!---
 ### Week 7
 #### Week of February 20, 2022: A Series of Tubes: What's wrong with the internet?
 
