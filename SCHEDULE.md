@@ -118,29 +118,17 @@ One-on-one meetings this week before midterm grades are submitted
 
 
 ***
-<!---
+
 ### Week 7
-#### Week of February 20, 2022: A Series of Tubes: What's wrong with the internet?
+#### Week of February 21, 2024: Eames Office & Speculative Futures
 
-DUE **Thursday, February 23**
-* Review [Project 2: Green Screen](/week_07_week_of_02-22-2021/project-2_green-screen.md) expectations.
-* Create a new markdown file in your repository called 'project-02-proposal.md'. Write a brief proposal (a few sentences) on what you plan to do for [Project 2: Green Screen](/week_07_week_of_02-22-2021/project-2_green-screen.md) and push it to your repository
-* Read [James Bridle, Something is Wrong On the Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
-* **Optional** *Read [‘You Can Still Make Websites Nowadays’: A Talk with the Pioneering Internet Art Collective JODI](https://www.artnews.com/art-news/artists/can-still-make-websites-nowadays-talk-pioneering-internet-art-collective-jodi-10653/)*
-* **Optional** *Read [Perrigo, The World Wide Web Turns 30 Today. Here's How Its Inventor Thinks We Can Fix It](https://time.com/5549635/tim-berners-lee-interview-web/)*
-* Complete [Tutorial: Setting up the virtual lab](/week_07_week_of_02-22-2021/Tutorial-Setting-Up-the-Virtual-Lab-WEEK-07.pdf)
-* Read W3C's [CSS Tutorial from 'CSS Overflow' to 'CSS Specificity'](https://www.w3schools.com/css/default.asp)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-07-response.md' and discuss in about 2 paragraphs if you agree with the problems and solutions laid out by Bridle. Bridle has a specific vision for what the internet 'should be'. Do you agree with this vision?
-* Push the file to your repository
-
-OBS Workshop Recording:
-https://uic.zoom.us/rec/share/PrCQcnoECBIZShhgJ9opFm7Cq3cb9JIa_ExswVHBkW2CLLCPmGdumEG_raoQHLWh.h5sSpUDMTVU1o1Sr?startTime=1646147751000
-
-DUE **Thursday, February 23**:
-* Submit improved GitHub Poetry Project by emailing me a link to your GitHub pages web address
+* DOWNLOAD and review [Week 7 guide](https://docs.google.com/presentation/d/1Jr8wzpV8_m8LpVGKwGFpKifIqNkY440bqizhEZDWXwY/edit?usp=sharing)
+* Read: [Beyond Speculative Design: Past - Present - Futures](week_07/Beyond-Speculative-Design.pdf). (It might seem long, but it includes a lot of pictures and diagrams.)
+* Consider the variety of projects described in the text. Which of these projects did you find the most engaging, and why?
+* Create a .md file in your responses repository for discussion by 10am, Wednesday (2/28).
 
 ***
-
+<!---
 ### Week 8
 #### Week of February 27, 2022: What is a model? Design and Algorithms
 
