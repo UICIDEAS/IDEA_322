@@ -128,20 +128,16 @@ One-on-one meetings this week before midterm grades are submitted
 * Create a .md file in your responses repository for discussion by 10am, Wednesday (2/28).
 
 ***
-<!---
+
 ### Week 8
-#### Week of February 27, 2022: What is a model? Design and Algorithms
+#### Week of February 28, 2024: Speculative Design
 
-DUE **Thursday, March 2**:
-* Watch [Mona Chalabi, 3 Ways to Spot a Bad Statistic](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic)
-* Read [Cathy O'Neil, Weapons of Math Destruction: Chapter 4](/week_08_week_of_03-01-2021/readings/Cathy-O-Neil-Weapons-Of-Math-Destruction-Chapter-4-WEEK-08.pdf)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-08-response.md' and discuss in about 2 paragraphs what methods outlined by O'Neil and Chalabi you believe you're subject to when using tools and consuming media on the internet. Would the internet be more useful and egalitarian without these methods (targeted ads, shaping interactions to content with specific design), or is it useful to direct users because your message could otherwise be lost among the sea of online content?
-* Push the file to your repository
-
-Optional In-Class Lab **Tuesday, March 7, 9:30-10:45AM**
-* Zoom link details in blackboard
-* DaVinci Resolve and OBS Basics
-
+* DOWNLOAD and review [Week 8 guide](https://docs.google.com/presentation/d/1KMCkrHMrYLEGLtP-cODe_kmSKzUsQAuFMRCQAxepidA/edit?usp=sharing)
+* Watch [Space is the Place](https://www.youtube.com/watch?v=owCPrIEliZc).
+* Read the introduction and pick 3 projects to read about in [Beyond Green: Toward a Sustainable Art](/week_08/beyond_green.pdf).
+* Create a .md file in your responses folder, and comment on the reading and film: Consider how movements like Afro-Futurism are a kind of Speculative Design; how does science fiction comment upon and critique our present? How are the works included in "Beyond Green" a kind of science fiction? What kinds of narratives might you weave around these objects/projects? Where might you find resources to craft this narrative?
+  
+<!---
 ***
 
 ## Unit 3: Non-linear Narratives in Digital Media
