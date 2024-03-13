@@ -137,38 +137,33 @@ One-on-one meetings this week before midterm grades are submitted
 * Read the introduction and pick 3 projects to read about in [Beyond Green: Toward a Sustainable Art](/week_08/beyond_green.pdf).
 * Create a .md file in your responses folder, and comment on the reading and film: Consider how movements like Afro-Futurism are a kind of Speculative Design; how does science fiction comment upon and critique our present? How are the works included in "Beyond Green" a kind of science fiction? What kinds of narratives might you weave around these objects/projects? Where might you find resources to craft this narrative?
   
-<!---
+
 ***
 
-## Unit 3: Non-linear Narratives in Digital Media
-
 ### Week 9
-#### Week of March 6, 2022: Personal Digital Narrative
-
-DUE **Thursday, March 9**:
-* Read [Lisa Nakamura, Digitizing Race: Introduction](/week_09_week_of_03-08-2021/readings/Lisa-Nakamura-Digitizing-Race-Intro-WEEK-09.pdf)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-09-nakamura.md' and discuss in about 2 paragraphs how you believe Nakamura's citation of Lev Manovich saying "interactive media ask us to identify with someone else’s mental structure" is to be understood. Discuss one example in depth of how aspects of tools you may use (such as Gmail, Instagram, TikTok, etc) are reflections of the designer's or developer's 'mental structure' and their own identity.
-* Push the file to your repository
-
-DUE **Thursday, March 10**:
-* Green Screen Project DUE
+#### Week of March 6, 2024: Speculative Design Part II
 
 ***
 
 ### Week 10
-#### Week of March 13, 2022: Non-linear Narratives in Digital Media
+#### Week of March 13, 2024: Personal Data Visualization
 
-DUE **Thursday, March 16**:
-* [Read the description for Project 3: Non-linear Narrative](/week_10_week_of_03-15-2021/project-3_non-linear-narrative.md)
-* Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10_week_of_03-15-2021/readings/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
-* Play [some of the twine games listed here](/week_10_week_of_03-15-2021/twineGames.md)
-* Create a new markdown document in your 'idea-120-responses' folder called 'project-03-proposal.md' and write a 1-2 paragraph proposal explaining the concept for your non-linear narrative
-* Push the file to your repository
+CREATE YOUR OWN PERSONAL DATA VISUALIZATION
 
-Optional In-Class Lab **Tuesday, March 14, 9:30-10:45AM**
-* Zoom link details in blackboard
-* Introduction to Twine Workshop - [a tool for making non-linear games](https://twinery.org/)
-* Tutorial will be recorded and shared with the class
+Read about Georgia Lupi and Stefanie Posavec's data visualization correspondence: http://www.dear-data.com/theproject
+What kinds of personal data might you visualize from your own life?
+
+Instructions:
+* Collect significant data either from an existing data set (for example, your t-shirt collection, record collection, plants in your home, etc.) OR collect data over the course of a week (number of times you drink a hot beverage, kinds of mail you receive, texts you get on your phone, memes you share, color socks you wear, etc.). It could be anything—it can be silly, or serious.
+* Figure out the best—or most interesting—way of visualizing the data. Look at the examples from http://www.dear-data.com/all for inspiration.
+* Take a sheet of 8.5 x 11 paper and fold it in half. Complete your visualization on one side, and provide a detailed key on the other.
+* Make copies for the class!
+
+Due: APRIL 3rd
+
+NOTES:
+* You can hand draw the data, or, if you want, you can make it using photography, Adobe Illustrator / Photoshop, or via collage—it's up to you what is the best/easiest for your project.
+* The data doesn't need to be in huge numbers or complicated! If you have a collection of 20 vintage spoons, that is enough data for an interesting visualization (depending on how you choose to visualize it)!
 
 ***
 
@@ -176,39 +171,18 @@ Optional In-Class Lab **Tuesday, March 14, 9:30-10:45AM**
 #### Week of March 20, 2022: SPRING BREAK!
 
 ### Week 12
-#### Week of March 27, 2022: Game Design for Artists, Part 1
+#### Week of March 27, 2022: FIELD TRIP TO BLOCK MUSEUM, NORTHWESTERN UNIVERSITY
 
-DUE **Thursday, March 30**:
-* Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 1 and 2](/week_12_week_of_03-29-2021/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-1-2-WEEK-12.pdf)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-12-anthropy.md' and discuss in about 4 paragraphs how accessibility in gaming and coding can help improve video games. Think about what we can gain from a larger number of voices participating in creating games and what other kinds of media (e.g. theater, physical games) could also benefit from using 'game' creation tools
-* Push the file to your repository
 
 ***
 
 ### Week 13
-#### Week of April 3, 2022: Game Design for Artists, Part 2
+#### Week of April 3, 2022: Special Collections // Archival Research
 
-![My Boyfriend Came Back from the War](/my_boyfriend_came_back_from_the_war.gif)
-
-<sup>*Possible playthrough of [Olia Lialina, My Boyfriend Came Back from the War](http://www.teleportacia.org/war/wara.htm)*</sup>
-
-DUE **Thursday, April 6**:
-* Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 3 and 4](/week_13_week_of_04-05-2021/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-3-4-WEEK-12.pdf)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-13-anthopy.md' and respond with around 3 questions these readings brought up for you. Pick one and discuss it in 3 paragraphs
-* Push the file to your repository
-* Read the description for [Project 4: Personal Portfolio](week_13_week_of_04-05-2021/project-4_personal-portfolio.md)
-* Create a new markdown document in your 'idea-120-responses' folder called 'project-04-proposal.md' and explain in about 1 paragraph what content you'll include in your portfolio and how it will be organized.
-* Draw (or layout in Illustrator) the basic layout that you will use for your Portfolio and [add this drawing to your repository](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) as a photo or exported from Illustrator
-* Push your proposal to your repository
-
-Twine Tutorial 1 Recording:
-https://uic.zoom.us/rec/share/tuY9gk9WzT5Czn2TZZTM-stO-cJ7B8UlLJ64JL_v7JQmgMwakHP3kUzZmzYffUU3.As_AN9VAKRpMqrRY?startTime=1647353795000 
-
-Twine Tutorial 2 Recording:
-https://uic.zoom.us/rec/share/oQH_ypu3YxS5OA5cqGZGJiInhh5I4DhsHPB7bgurKFnsD2KHK7WNAagdACln1NlT.0KLHikohC7hEBs9Z?startTime=1649168217000
+We will meet in the Daley Library lobby and engage in a workshop with Special Collections.
 
 ***
-
+<!--
 ### Week 14
 #### Week of April 10, 2021
 
