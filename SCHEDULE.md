@@ -148,6 +148,8 @@ One-on-one meetings this week before midterm grades are submitted
 ### Week 10
 #### Week of March 13, 2024: Personal Data Visualization
 
+Download and review [Week 10 guide](https://docs.google.com/presentation/d/1BwZavHu6y7JpcdGOWhwhZsUzNx59fbmK49YRLlz8RcI/edit?usp=sharing)
+
 CREATE YOUR OWN PERSONAL DATA VISUALIZATION
 
 Read about Georgia Lupi and Stefanie Posavec's data visualization correspondence: http://www.dear-data.com/theproject
@@ -173,6 +175,7 @@ NOTES:
 ### Week 12
 #### Week of March 27, 2022: FIELD TRIP TO BLOCK MUSEUM, NORTHWESTERN UNIVERSITY
 
+Sign up here: https://docs.google.com/document/d/1n3GZIOeKJvau5liz43Hq3j2r9HVWJyAGAF6410KA4Q8/edit?usp=sharing
 
 ***
 
