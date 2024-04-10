@@ -6,7 +6,9 @@ The word charrette is French for 'cart' or 'chariot'. Its use in the sense of de
 
 We will be using the contents of the UIC Special Collections to create a proposal for a large-scale project, one you might engage in for a capstone project.
 
-You will create a poster and presentation that will follow this outline for a "Modified Charrette". Refer to the sample poster
+You will create a poster and presentation that will follow this outline for a "Modified Charrette". 
+
+![charette_example](https://github.com/UICIDEAS/IDEA_322/assets/22691904/b2b31d63-352b-4eeb-95ba-80464e023c73)
 
 A "Modified Charrette" Process for the Interdisciplinary Artist
 
