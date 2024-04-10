@@ -185,11 +185,11 @@ Sign up here: https://docs.google.com/document/d/1n3GZIOeKJvau5liz43Hq3j2r9HVWJy
 We will meet in the Daley Library lobby and engage in a workshop with Special Collections.
 
 ***
-<!--
+
 ### Week 14
 #### Week of April 10, 2021
 
-
+[FINAL PROJECT: The MODIFIED CHARETTE](week_14/PROJECT_4.md)
 
 DUE **Thursday, April 13**:
 * Non-linear Narrative Project DUE
