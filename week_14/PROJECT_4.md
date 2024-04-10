@@ -1,4 +1,4 @@
-FINAL PROJECT: Charrette Project Proposal
+## PROJECT 4 FINAL PROJECT: Charrette Project Proposal
 
 A charrette is an intense period of design or planning activity. 
 
