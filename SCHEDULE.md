@@ -180,37 +180,32 @@ Sign up here: https://docs.google.com/document/d/1n3GZIOeKJvau5liz43Hq3j2r9HVWJy
 ***
 
 ### Week 13
-#### Week of April 3, 2022: Special Collections // Archival Research
+#### Week of April 3, 2024: Special Collections // Archival Research
 
 We will meet in the Daley Library lobby and engage in a workshop with Special Collections.
 
 ***
 
 ### Week 14
-#### Week of April 10, 2021
+#### Week of April 10, 2024
 
-[FINAL PROJECT: The MODIFIED CHARETTE](week_14/PROJECT_4.md)
-
-DUE **Thursday, April 13**:
-* Non-linear Narrative Project DUE
+[FINAL PROJECT: The MODIFIED CHARRETTE](week_14/PROJECT_4.md)
 
 ***
 
 ### Week 15
-#### Week of April 17, 2021
+#### Week of April 17, 2024
 
-Continue working on your Final Portfolio Project
+Continue working on your Charrette Project
 
 ***
 
 ### Week 16
-#### Week of April 24, 2021
+#### Week of April 24, 2024
 
-DUE **Thursday, April 27**:
-* Final Portfolio Project
-
+* Final Presentations!
 ***
 
-![Dancing Baby](dancing_baby.gif)
+
 
 <sup>*The classic [Dancing Baby](https://knowyourmeme.com/memes/dancing-baby)*</sup> -->
